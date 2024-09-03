@@ -33,7 +33,7 @@ span {
     position: relative;
 }
 .balloon {
-    width: 738px;
+    width: 50px;
     margin: 0 auto;
     padding-top: 30px;
     position: relative;
@@ -234,8 +234,8 @@ span {
 .avatar {
     cursor: pointer;
     position: absolute;
-    top: 50%;
-    left: calc(50% - 100px);
+    top: 90%;
+    left: calc(100% - 100px);
 }
 
 .avatar__img {
